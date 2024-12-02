@@ -2,15 +2,15 @@
     {
         "id": 1,
         "title": "kniga",
-        "author": "nigga",
+        "author": "avtor",
         "year": 2024,
         "status": "в наличии"
     },
     {
-        "id": 1,
-        "title": "kniga",
-        "author": "nigga",
-        "year": 2024,
+        "id": 2,
+        "title": "knig",
+        "author": "avt",
+        "year": 2222,
         "status": "в наличии"
     }
 ]

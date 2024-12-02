@@ -58,7 +58,8 @@ class Library:
             return
         if self.books:
             new_id = max(book.id for book in self.books) + 1
-        new_id = 1
+        else:
+            new_id = 1
         new_book = Book(
             id=new_id,
             title=title,
